@@ -82,6 +82,12 @@ links:
       url: http://www.throwable.club
       avatar: https://public-1256189093.cos.ap-guangzhou.myqcloud.com/static/doge_avatar.jpg
       tags: [Chives, Java]
+    - name: 胆小辉
+      url: http://www.okwzh.cn
+      avatar: http://www.okwzh.cn/1.jpg
+      tags: [python小萌新]
+      desc: 一个菜菜的小萌新
+      backgroundColor: '#87CEFA'
   - group: '版本：^2.0～2.4'
     desc: 导航栏 N 级菜单；新增 Tab、Note、Menu 标签
     items:
