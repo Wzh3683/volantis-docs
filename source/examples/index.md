@@ -85,7 +85,12 @@ links:
     - name: BFDZ
       url: https://www.bfdz.ink/
       avatar: https://www.bfdz.ink/favicon.png
-      tags: [Linux,BT]      
+      tags: [Linux,BT]
+    - name: 胆小辉
+      url: https://www.okwzh.cn
+      avatar: https://i.loli.net/2020/06/10/Jhuyb1GgxeBXKHp.jpg
+      tags: [python]
+      desc: [超级超级菜的python小萌新]
   - group: '版本：^2.0～2.4'
     desc: 导航栏 N 级菜单；新增 Tab、Note、Menu 标签
     items:
